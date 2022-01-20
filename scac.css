@@ -1,0 +1,45 @@
+html,body {
+    /* height: 100%; */
+    /* width: 100%; */
+}
+
+body {
+    background: linear-gradient(160deg, rgba(236,148,41,1) 0%, rgba(223,138,153,1) 50%, rgba(170,107,142,1) 100%);  
+    text-align: center;
+    background-repeat: no-repeat;
+}
+
+.button{
+    background-color: rgba(170,107,142,1);
+    height: 30px;
+    width: 280px;
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 22px;
+    color: white;
+    font-family: "Tajawal";
+}
+
+.space {
+    height: 100px;
+}
+
+.space1 {
+    height: 30px;
+}
+
+.buttons{
+    max-width: 310px;
+    margin: auto;
+}
+
+.media{
+    display: inline-block;
+}
+ 
